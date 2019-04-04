@@ -1,5 +1,6 @@
 # Portugese-Bank-marketing-Campaign
 
+# Conclusion
 People with higher age should be targeted. This is probably due to the spending 
 habits of younger people and the conservative habits of the older.
 Target people when the euribor3m rate is low. This has shown to be strong indicator so the company should observe
